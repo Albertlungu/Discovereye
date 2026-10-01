@@ -173,7 +173,7 @@ The frontend communicates with the backend at `http://127.0.0.1:5001`. Session s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Albertlungu/CNLC.git
+   git clone https://github.com/Albertlungu/Discovereye.git
    cd Discovereye
    ```
 
